@@ -1,0 +1,4 @@
+br\com\unipar\designpatterns_decorator\CompressedCloudStream.class
+br\com\unipar\designpatterns_decorator\CloudStream.class
+br\com\unipar\designpatterns_decorator\EncryptedCloudStream.class
+br\com\unipar\designpatterns_decorator\DesignPatterns_Decorator.class
